@@ -1,5 +1,6 @@
 # TimeSeries
-Java8 + Jax-RS + Jersey, secure API implementation.
+Java8 + Jax-RS + Jersey, secure API implementation. The idea is to provide a simple API that allows to
+track arbitrary counts, this project is intended to handle heavy traffic and big data storing it in an apache cassandra cluster.
 
 # Intended Technologies
 * Java 8
